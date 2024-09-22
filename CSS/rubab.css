@@ -1,0 +1,94 @@
+.party{
+    color: blue;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.dress{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+}
+.party{
+    color: black;
+   text-decoration: none;
+}
+.casual{
+    color: black;
+    text-decoration: none;
+}
+.Embroidered{
+    color: black;
+    text-decoration: none;
+}
+.unstitch{
+    color: black;
+    text-decoration: none;
+}
+.rubab{
+    color:burlywood;
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 8px;
+    
+}
+@media screen and ( max-width: 425px) {
+    
+}
+.rubab{
+    
+}
+.list{
+
+}
+.list li{
+
+}
+.list li a{
+
+}
+.logo{
+    padding-left: 40px;
+    font-size: 40px;
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 5px;
+    text-shadow: 5px 5px 10px color yellow;
+}
+body{
+    background-image: url(../image/best-girls-dresses-online-shopping-website-in-pakistan-kross-kulture-898545.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: blanchedalmond;
+}
+.party:hover, .casual:hover, .Embroidered:hover, .unstitch:hover, .order:hover{
+    background-color: darkolivegreen;
+    padding: 8px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+
+}
+.paragraph{
+    font-size: 20px;
+    color: darkmagenta;
+}
+.heading{
+    text-align:center;
+    padding: 140px;
+    text-decoration-line:  underline;
+    text-decoration-color: forestgreen;
+    text-decoration-style: dotted;
+    text-shadow: 8px 8px 8px chocolate;
+    font-style: italic;
+}
+.order{
+    color: black;
+    background-color: red;
+    text-decoration: none;
+    border-radius: 7px;
+}

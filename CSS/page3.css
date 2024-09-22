@@ -1,0 +1,26 @@
+.heading{
+    background-color: deeppink;
+    border-radius:  6px;
+}
+.logo{
+    background-color: darkorange;
+    font-size: 20px;
+
+}
+*{
+    box-sizing: border-box;
+}
+.clm{
+    float: left;
+    width: 33.33%;
+    padding: 4px;
+}
+.clm img{
+    height: 300px;
+}
+.cloth{
+    color: darkgreen;
+}
+.more{
+    background-color: yellow;
+}
